@@ -29,6 +29,5 @@
 * :arrow_right_hook: Faire une branch
 *  :twisted_rightwards_arrows: Faire une `PR` sur le repo Originel.
 
-### :checkered_flag: LE PROJET EST A RENDRE  :checkered_flag:
-
+### DEVELOPER : MOHAMED SABER
 > 'BON CHANCE'
