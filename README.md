@@ -28,6 +28,6 @@
 * :recycle: Forker le repo.
 * :arrow_right_hook: Faire une branch
 *  :twisted_rightwards_arrows: Faire une `PR` sur le repo Originel.
+---
 
-### DEVELOPER : MOHAMED SABER
-> 'BON CHANCE'
+##### Made with ❤ by @Saber
